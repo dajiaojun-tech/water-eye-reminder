@@ -6,7 +6,7 @@
 ![喝水](docs/效果预览-喝水.png)
 ![护眼](docs/效果预览-护眼.png)
 
-**[⬇ 下载最新版](https://github.com/mzz0707/water-eye-reminder/releases/latest)** · 解压后双击 exe 就能用
+**[⬇ 下载最新版](https://github.com/dajiaojun-tech/water-eye-reminder/releases/latest)** · 解压后双击 exe 就能用
 
 适合每天要对着电脑坐六小时以上、又总忘记起身的人。装上就不用管，它比你记得住。
 
@@ -41,7 +41,7 @@
 
 没有安装程序，就是一个 exe：
 
-1. 从 [Releases](https://github.com/mzz0707/water-eye-reminder/releases/latest) 下载 `water-eye-reminder-v1.0.1.zip`，解压
+1. 从 [Releases](https://github.com/dajiaojun-tech/water-eye-reminder/releases/latest) 下载 `water-eye-reminder-v1.0.1.zip`，解压
 2. 把里面的 exe 放到你喜欢的位置（比如 `D:\tools\`）
 3. 双击运行，右下角出现小水滴图标
 
