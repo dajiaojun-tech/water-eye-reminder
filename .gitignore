@@ -1,0 +1,6 @@
+# 构建产物
+_dist/
+release/
+*.zip
+*.tmp
+app.ico.bak
