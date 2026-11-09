@@ -140,7 +140,7 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1 -OutDir D:\tools # 输出�
 - 时间安排换成你的作息（工作时段自动暂停、午休不打扰）
 - 换成公司内部版本（统一文案、统一图标、批量部署）
 
-有需要，在 Issues 里留言，或者发邮件到 `你的邮箱（待填）`。
+有需要就在 Issues 里留言，说清楚想改成什么样、给谁用、几台机器。
 
 ## License
 
